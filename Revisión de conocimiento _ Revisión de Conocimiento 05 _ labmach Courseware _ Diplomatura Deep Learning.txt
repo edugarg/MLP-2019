@@ -1,0 +1,52 @@
+Pregunta 1
+
+Cuáles de las siguientes estrategias sirve para aumentar la cantidad de parámetros de una red neuronal?
+
++ Aumentar la cantidad de capas de la red (Hacerla más profunda)
++ Aumentar la cantidad de unidades de una o más capas
+
+Pregunta 2
+
+Cuántos parámetros entrenables tiene una red neuronal con 2 capas ocultas de 10 uniades cada una.
+La cantidad de features de entrada es de 4 y el modelo resuelve un problema de clasificación binaria.
+
+171
+
+Pregunta 3
+
+Cuántos parámetros entenables tiene una red neuronal con 2 capas ocultas de 10 unidades cada una.
+La cantidad de features de entrada es de 4 y el modelo resuelve un problema de clasificación m-aria donde la cantidad de clases es 4
+
+204
+
+Pregunta 4
+
+Si deseo modificar un modelo multiclase a multilabel debo:
+
++ Cambiar la función de activación Softmax de la salida por la sigmoidea por ejemplo
++ Calcular los loss de manera diferente: en vez de una entropía cruzada categórica, podría realizar una entropía cruzada binaria
+para cada salida y promediarlas.
+
+Pregunta 5
+
++ Sumar el bias
++ Multiplicar entrada por pesos (parámetros)
++ Aplicar función de activación
+
+Pregunta 6
+
+Cuáles de los siguientes son hiperparámetros
+
++ Cantidad de capas de la red neuronal
++ Learning reate
++ Cantidad de unidades por capa
++ Batch Size
+
+Multiple Choice
+
+Escalar todos los pesos de un clasificador hecho con MLP con sigmoideas en todas las capas
+no afecta nunca la clasificación de salida 
+
+
+
+
